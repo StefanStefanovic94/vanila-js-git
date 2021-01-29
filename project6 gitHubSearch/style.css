@@ -1,0 +1,73 @@
+body {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: lightgray;
+}
+
+header {
+    margin-top: 40px;
+}
+
+input {
+    height: 25px;
+    width: 80%;
+    border-radius: 15px;
+    padding-left: 5px;
+    border: solid, 5px;
+    margin-bottom: 40px;
+    margin-left: 15px;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+main {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.profile {
+    width: 100%;
+}
+
+.profile div {
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    margin-right: 15px;
+}
+
+p {
+    margin: 0 auto;
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+    font-size: 35px;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    background-color: rgb(79, 150, 179);
+    border-radius: 15px;
+    color: aliceblue;
+    border: 0px;
+}
+
+section div {
+    display: inline-block;
+    justify-content: space-between;
+    font-size: 20px;
+    background-color: azure;
+    border-radius: 10px;
+    margin-right: 20px;
+    border: solid 2px lightsalmon;
+}
